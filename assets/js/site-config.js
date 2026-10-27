@@ -20,6 +20,7 @@ window.SITE_CONFIG = {
     epihunting: { repository: '', website: '' },
     nanchuan: { repository: '', website: '' },
     hotwind: { repository: '', website: '' },
+    cf: { repository: '', website: 'https://1976076128.wixsite.com/cystic015/what-is-cf' },
     rnaseq: { repository: '', website: '' }
   }
 };
