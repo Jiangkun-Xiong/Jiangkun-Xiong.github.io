@@ -1,3 +1,3 @@
 # Jiangkun-Xiong.github.io
-Personal academic website
+A personal portfolio documenting my journey through medicine, research, innovation, and community engagement.
 
